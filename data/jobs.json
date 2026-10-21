@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": null,
+    "updated_at": "2026-10-21T15:10:09+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -12,5 +12,36 @@
       "check": "I read the morning email and open each post before I act on it"
     }
   },
-  "jobs": []
+  "jobs": [
+    {
+      "id": "gh-stripe-8081423",
+      "title": "Product Strategy & Operations APAC",
+      "company": "Stripe",
+      "location": "Singapore",
+      "source": "Company site",
+      "url": "https://stripe.com/jobs/search?gh_jid=8081423",
+      "posted": "2026-07-27",
+      "salary": null,
+      "track": "Innovation",
+      "level": "Not stated",
+      "why": "title has \"Product Strategy\"",
+      "first_seen": "2026-10-21T15:10:09+08:00",
+      "last_seen": "2026-10-21T15:10:09+08:00"
+    },
+    {
+      "id": "gh-databricks-8582993002",
+      "title": "Sales Dev AI Program Manager",
+      "company": "Databricks",
+      "location": "Singapore",
+      "source": "Company site",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582993002",
+      "posted": "2026-06-25",
+      "salary": null,
+      "track": "AI",
+      "level": "Mid",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-10-21T15:10:09+08:00",
+      "last_seen": "2026-10-21T15:10:09+08:00"
+    }
+  ]
 }
