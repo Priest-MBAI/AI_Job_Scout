@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-04T06:08:59+08:00",
+    "updated_at": "2026-11-05T06:10:19+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,36 @@
     }
   },
   "jobs": [
+    {
+      "id": "gh-stripe-8349481",
+      "title": "Account Executive - Startups & AI  (Korean Speaking, Singapore based)",
+      "company": "Stripe",
+      "location": "Singapore",
+      "source": "Company site",
+      "url": "https://stripe.com/jobs/search?gh_jid=8349481",
+      "posted": "2026-11-04",
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-05T06:10:19+08:00",
+      "last_seen": "2026-11-05T06:10:19+08:00"
+    },
+    {
+      "id": "gh-anthropic-5424312008",
+      "title": "Head of ASEAN, Applied AI",
+      "company": "Anthropic",
+      "location": "Singapore",
+      "source": "Company site",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424312008",
+      "posted": "2026-11-03",
+      "salary": null,
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-05T06:10:19+08:00",
+      "last_seen": "2026-11-05T06:10:19+08:00"
+    },
     {
       "id": "gh-databricks-8762362002",
       "title": "Sr. Specialist Solutions Architect (AI/ML)",
@@ -26,7 +56,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:10:08+08:00",
-      "last_seen": "2026-11-04T06:08:59+08:00"
+      "last_seen": "2026-11-05T06:10:19+08:00"
     },
     {
       "id": "gh-stripe-8081423",
@@ -41,7 +71,7 @@
       "level": "Not stated",
       "why": "title has \"Product Strategy\"",
       "first_seen": "2026-10-21T15:10:09+08:00",
-      "last_seen": "2026-11-04T06:08:59+08:00"
+      "last_seen": "2026-11-05T06:10:19+08:00"
     },
     {
       "id": "gh-databricks-8582993002",
