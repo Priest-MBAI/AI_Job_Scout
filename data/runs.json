@@ -899,6 +899,56 @@
       "kept": 5,
       "emailed": false,
       "note": "MyCareersFuture 'artificial intelligence': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'machine learning': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'generative AI': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'innovation': blocked by the cloud network (403). Add this host under Custom network access. No LinkedIn alert file this run."
+    },
+    {
+      "run_at": "2026-11-08T06:08:43+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 0
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 0
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 35
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 48
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 10
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 5
+        }
+      ],
+      "found": 4,
+      "new": 0,
+      "kept": 5,
+      "emailed": false,
+      "note": "MyCareersFuture 'artificial intelligence': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'machine learning': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'generative AI': blocked by the cloud network (403). Add this host under Custom network access.; MyCareersFuture 'innovation': blocked by the cloud network (403). Add this host under Custom network access. No LinkedIn alert file this run."
     }
   ]
 }
